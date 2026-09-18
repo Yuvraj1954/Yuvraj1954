@@ -31,8 +31,6 @@
     <td align="center" width="33%"><img src="./assets/icons/python.svg" width="32" alt="Python" /><br/><code>PYTHON</code></td>
     <td align="center" width="33%"><img src="./assets/icons/c.svg" width="32" alt="C" /><br/><code>C</code></td>
     <td align="center" width="33%"><img src="./assets/icons/cplusplus.svg" width="32" alt="C++" /><br/><code>C++</code></td>
-  </tr>
-  <tr>
     <td align="center"><img src="./assets/icons/dart.svg" width="32" alt="Dart" /><br/><code>DART</code></td>
     <td align="center"><img src="./assets/icons/database.svg" width="32" alt="SQL database" /><br/><code>SQL</code></td>
     <td></td>
@@ -46,8 +44,6 @@
     <td align="center" width="33%"><img src="./assets/icons/flutter.svg" width="32" alt="Flutter" /><br/><code>FLUTTER</code></td>
     <td align="center" width="33%"><img src="./assets/icons/fastapi.svg" width="32" alt="FastAPI" /><br/><code>FASTAPI</code></td>
     <td align="center" width="33%"><img src="./assets/icons/html5.svg" width="32" alt="HTML5" /><br/><code>HTML5</code></td>
-  </tr>
-  <tr>
     <td align="center"><img src="./assets/icons/css.svg" width="32" alt="CSS" /><br/><code>CSS</code></td>
     <td align="center"><img src="./assets/icons/javascript.svg" width="32" alt="JavaScript" /><br/><code>JAVASCRIPT</code></td>
     <td></td>
