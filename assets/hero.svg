@@ -1,15 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
-  <title id="title">Yuvraj's Orbiting Debug Station</title><desc id="desc">An animated space-station terminal welcoming visitors to Yuvraj's coder world.</desc>
+  <title id="title">Yuvraj's Orbiting Debug Station</title>
+  <desc id="desc">An animated developer terminal paired with a refined systems schematic.</desc>
   <defs>
     <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#090d1d"/><stop offset="1" stop-color="#130d25"/></linearGradient>
-    <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#18253c"/><stop offset="1" stop-color="#0c1224"/></linearGradient>
-    <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
     <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#253452" stroke-width=".65" opacity=".55"/></pattern>
   </defs>
   <rect width="1200" height="460" rx="20" fill="url(#bg)"/>
   <rect width="1200" height="460" rx="20" fill="url(#grid)"/>
   <g fill="#98caff"><circle cx="76" cy="54" r="1.4"/><circle cx="318" cy="100" r="1"/><circle cx="1080" cy="83" r="1.4"/><circle cx="1137" cy="331" r="1"/><circle cx="1034" cy="398" r="1.3"/><circle cx="125" cy="385" r="1"/></g>
-  <g opacity=".78"><circle cx="1075" cy="145" r="44" fill="none" stroke="#ab7cff"/><circle cx="1075" cy="145" r="29" fill="#272049"/><path d="M1016 145h118M1075 86v118" stroke="#ab7cff" stroke-width="1"/><circle cx="1108" cy="120" r="6" fill="#ffcb6b" filter="url(#glow)"><animate attributeName="cy" values="120;170;120" dur="5s" repeatCount="indefinite"/></circle></g>
   <g transform="translate(70 64)">
     <rect width="810" height="310" rx="14" fill="#080c17" stroke="#52719a" stroke-width="2"/>
     <path d="M0 45h810" stroke="#52719a"/><circle cx="27" cy="23" r="7" fill="#ff6b8b"/><circle cx="51" cy="23" r="7" fill="#ffcb6b"/><circle cx="75" cy="23" r="7" fill="#5eead4"/>
@@ -18,6 +17,14 @@
     <g font-family="monospace"><text x="35" y="218" fill="#f4f7ff" font-size="49" font-weight="700" letter-spacing="4">YUVRAJ</text><text x="38" y="251" fill="#ffcb6b" font-size="17">maintainer of systems, experiments &amp; improbable ideas</text><text x="38" y="283" fill="#5eead4" font-size="16">› enter with curiosity_</text></g>
     <rect x="392" y="267" width="10" height="18" fill="#5eead4"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
   </g>
-  <g transform="translate(937 250)" stroke="#5eead4" fill="none" opacity=".95"><path d="M0 90 96 40l94 50-96 51z" fill="#14243a"/><path d="M96 40v101M0 90l96 51 94-51M23 78l73 38 71-38"/><path d="M96 5v35" stroke="#ffcb6b"/><circle cx="96" cy="1" r="5" fill="#ffcb6b" filter="url(#glow)"><animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/></circle></g>
+  <!-- a quiet diagnostic schematic: no orbiting ball, no pyramid -->
+  <g transform="translate(950 105)" font-family="monospace">
+    <rect width="180" height="205" rx="12" fill="#0b1325" stroke="#45638c" stroke-width="1.5"/>
+    <path d="M0 38h180" stroke="#45638c"/><text x="18" y="25" fill="#9eb3d1" font-size="12">SYSTEM SCHEMATIC</text>
+    <g fill="none" stroke-linecap="round"><path d="M25 70h50l15 14h65" stroke="#5eead4" stroke-width="2"/><path d="M25 112h28l14-16h88" stroke="#ffcb6b" stroke-width="2"/><path d="M25 154h45l13 14h72" stroke="#ab7cff" stroke-width="2"/></g>
+    <g fill="#0b1325" stroke-width="2"><rect x="18" y="63" width="14" height="14" stroke="#5eead4"/><rect x="148" y="77" width="14" height="14" stroke="#5eead4"/><rect x="18" y="105" width="14" height="14" stroke="#ffcb6b"/><rect x="148" y="89" width="14" height="14" stroke="#ffcb6b"/><rect x="18" y="147" width="14" height="14" stroke="#ab7cff"/><rect x="148" y="161" width="14" height="14" stroke="#ab7cff"/></g>
+    <g font-size="10" fill="#8299bc"><text x="18" y="194">BUILD · TEST · REPEAT</text></g>
+    <rect x="20" y="48" width="3" height="126" fill="#5eead4" opacity=".75"><animate attributeName="x" values="20;157;20" dur="3.5s" repeatCount="indefinite"/></rect>
+  </g>
   <text x="70" y="421" fill="#5d7298" font-family="monospace" font-size="13">ORBITING DEBUG STATION · ALL SYSTEMS NOMINALLY FUNCTIONAL</text>
 </svg>

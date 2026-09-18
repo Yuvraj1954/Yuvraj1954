@@ -18,36 +18,21 @@
   <a href="https://github.com/Yuvraj1954?tab=repositories">open the hangar</a> &nbsp;·&nbsp;
   <a href="https://github.com/Yuvraj1954?tab=commits">read the flight recorder</a> &nbsp;·&nbsp;
   <a href="https://github.com/Yuvraj1954/Arrow_Escape">play something</a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Yuvraj1954&amp;label=station%20visitors&amp;color=5eead4&amp;style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Yuvraj1954?label=crew&amp;style=flat-square&amp;color=5eead4&amp;labelColor=0b1020" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Yuvraj1954?affiliations=OWNER&amp;label=stars%20collected&amp;style=flat-square&amp;color=ffcb6b&amp;labelColor=0b1020" alt="GitHub stars" />
 </div>
-
-<br/>
-
-## the station map
-
-<div align="center">
-  <img src="./assets/orbit-station.svg" width="100%" alt="A pseudo-3D orbiting developer station with sectors for systems, games, AI and strange experiments" />
-</div>
-
-This is the kind of stuff that keeps the station powered: systems that automate the boring parts, AI and data experiments, game logic, useful tools, and prototypes whose original problem may have vanished three commits ago.
-
-<br/>
-
-## active modules
-
-| Dock | What is inside |
-| :-- | :-- |
-| `GAME_DECK` | [Arrow Escape](https://github.com/Yuvraj1954/Arrow_Escape) — a hand-built silhouette puzzle game. No game engine; just browser code doing its best. |
-| `AUTOMATION_BAY` | [mplads-automation](https://github.com/Yuvraj1954/mplads-automation) — Python jobs that keep a real dataset moving while humans do more human things. |
-| `SYSTEMS_LAB` | [GovSense-AI](https://github.com/Yuvraj1954/GovSense-AI) — an AI/data dashboard built with FastAPI and PostgreSQL. The serious project in an otherwise suspiciously playful lab. |
-| `CO-OP_CHANNEL` | [SafeSakhi](https://github.com/Ankitaaa2506/SafeSakhi) — contributing Flutter/Dart to a teammate’s safety-focused app. |
 
 <br/>
 
 ## build loop // currently uncontained
 
-<div align="center">
-  <img src="./assets/build-loop.svg" width="100%" alt="Animated loop: improbable idea, prototype, unexpected behavior, debugging, new idea" />
-</div>
+```text
+  IDEA ──→ BUILD ──→ "WHAT?" ──→ DEBUG ──→ AHA!
+    ↑                                            │
+    └────────── "wait, what else could it do?" ─┘
+```
 
 ```text
 $ git commit -m "one tiny cleanup"
@@ -70,6 +55,17 @@ FAVORITE_BUTTON    "run it and see"
 KNOWN_ANOMALY      feature creep detected beyond visual range
 ```
 
+<br/>
+
+## transmission telemetry
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yuvraj1954&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;bg_color=0B1020&amp;title_color=EAF5FF&amp;text_color=AABEDB&amp;icon_color=5EEAD4&amp;ring_color=FFCB6B" alt="Yuvraj's GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Yuvraj1954&amp;hide_border=true&amp;background=0B1020&amp;ring=FFCB6B&amp;fire=FF8FB3&amp;currStreakLabel=5EEAD4&amp;sideLabels=AABEDB&amp;dates=6D82A6&amp;stroke=0B1020" alt="Yuvraj's GitHub contribution streak" />
+  <br/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj1954&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1020&amp;title_color=EAF5FF&amp;text_color=AABEDB" alt="Most-used languages" />
+</div>
+
 <details>
 <summary><sub>diagnostics // do not press unless curious</sub></summary>
 <br/>
@@ -90,7 +86,7 @@ BUG DATABASE
 ---
 
 <div align="center">
-  <img src="./assets/signature.svg" width="240" alt="Yuvraj orbit station signature" />
-  <br/>
+  <code>◇ YUVRAJ // CALLSIGN: 1954 // BUILD MODE: ON ◇</code>
+  <br/><br/>
   <sub>transmitting from <a href="https://github.com/Yuvraj1954">github.com/Yuvraj1954</a> · 1954 is a callsign, not a timestamp.</sub>
 </div>
