@@ -39,6 +39,8 @@ KNOWN_ANOMALY      feature creep detected beyond visual range
 Live activity belongs to GitHub itself — no paused dashboard deployment in the middle.
 
 <div align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=Yuvraj1954&amp;hide_border=true&amp;background=0B1020&amp;ring=FFCB6B&amp;fire=FF8FB3&amp;currStreakLabel=5EEAD4&amp;sideLabels=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakNum=FFFFFF&amp;dates=FFFFFF&amp;stroke=0B1020" alt="Yuvraj's GitHub contribution streak" />
+  <br/>
   <a href="https://github.com/Yuvraj1954">contribution graph</a> &nbsp;·&nbsp;
   <a href="https://github.com/Yuvraj1954?tab=repositories">repositories</a> &nbsp;·&nbsp;
   <a href="https://github.com/Yuvraj1954?tab=stars">stars</a>
@@ -68,4 +70,3 @@ BUG DATABASE
   <br/><br/>
   <sub>transmitting from <a href="https://github.com/Yuvraj1954">github.com/Yuvraj1954</a> · 1954 is a callsign, not a timestamp.</sub>
 </div>
-
