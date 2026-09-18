@@ -22,11 +22,52 @@
 
 <br/>
 
-## developer loadout 
+## developer loadout // equipped
 
-<div align="center">
-  <img src="./assets/loadout.svg" width="100%" alt="Developer loadout HUD showing Python, C, C++, Dart, SQL, Flutter, FastAPI, HTML, CSS, JavaScript, PostgreSQL and Supabase" />
-</div>
+<sub>◉ LANGUAGE CORE</sub>
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="./assets/icons/python.svg" width="32" alt="Python" /><br/><code>PYTHON</code></td>
+    <td align="center" width="33%"><img src="./assets/icons/c.svg" width="32" alt="C" /><br/><code>C</code></td>
+    <td align="center" width="33%"><img src="./assets/icons/cplusplus.svg" width="32" alt="C++" /><br/><code>C++</code></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/icons/dart.svg" width="32" alt="Dart" /><br/><code>DART</code></td>
+    <td align="center"><img src="./assets/icons/database.svg" width="32" alt="SQL database" /><br/><code>SQL</code></td>
+    <td></td>
+  </tr>
+</table>
+
+<sub>◉ BUILD DECK</sub>
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="./assets/icons/flutter.svg" width="32" alt="Flutter" /><br/><code>FLUTTER</code></td>
+    <td align="center" width="33%"><img src="./assets/icons/fastapi.svg" width="32" alt="FastAPI" /><br/><code>FASTAPI</code></td>
+    <td align="center" width="33%"><img src="./assets/icons/html5.svg" width="32" alt="HTML5" /><br/><code>HTML5</code></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/icons/css.svg" width="32" alt="CSS" /><br/><code>CSS</code></td>
+    <td align="center"><img src="./assets/icons/javascript.svg" width="32" alt="JavaScript" /><br/><code>JAVASCRIPT</code></td>
+    <td></td>
+  </tr>
+</table>
+
+<sub>◉ DATA BAY</sub>
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="./assets/icons/postgresql.svg" width="32" alt="PostgreSQL" /><br/><code>POSTGRESQL</code></td>
+    <td align="center" width="50%"><img src="./assets/icons/supabase.svg" width="32" alt="Supabase" /><br/><code>SUPABASE</code></td>
+  </tr>
+</table>
+
+```text
+CODE       ██████████  ONLINE
+IDEAS      ██████████  OVERFLOW
+BUGS       ███████░░░  CONTAINED*
+```
 
 <br/>
 
