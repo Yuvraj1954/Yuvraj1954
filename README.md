@@ -68,18 +68,3 @@ BUG DATABASE
   <sub>transmitting from <a href="https://github.com/Yuvraj1954">github.com/Yuvraj1954</a> · 1954 is a callsign, not a timestamp.</sub>
 </div>
 
-<div align="center">
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Yuvraj1954&show_icons=true&hide_title=true&hide_border=true&bg_color=0B1020&title_color=FFFFFF&text_color=FFFFFF&icon_color=5EEAD4"
-    alt="Yuvraj's GitHub stats"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj1954&layout=compact&hide_border=true&bg_color=0B1020&title_color=FFFFFF&text_color=FFFFFF"
-    alt="Most-used languages"
-  />
-
-</div>
