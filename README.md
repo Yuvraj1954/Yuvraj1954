@@ -23,42 +23,9 @@
 
 <br/>
 
-## developer loadout
+<h1 style="display: inline;">💻 Tech Stack:</h1>
 
-<sub>◉ LANGUAGE CORE</sub>
-
-<table>
-  <tr>
-    <td align="center" width="33%"><img src="./assets/icons/python.svg" width="32" alt="Python" /><br/><code>PYTHON</code></td>
-    <td align="center" width="33%"><img src="./assets/icons/c.svg" width="32" alt="C" /><br/><code>C</code></td>
-    <td align="center" width="33%"><img src="./assets/icons/cplusplus.svg" width="32" alt="C++" /><br/><code>C++</code></td>
-    <td align="center"><img src="./assets/icons/dart.svg" width="32" alt="Dart" /><br/><code>DART</code></td>
-    <td align="center"><img src="./assets/icons/database.svg" width="32" alt="SQL database" /><br/><code>SQL</code></td>
-  </tr>
-</table>
-
-<sub>◉ BUILD DECK</sub>
-
-<table>
-  <tr>
-    <td align="center" width="33%"><img src="./assets/icons/flutter.svg" width="32" alt="Flutter" /><br/><code>FLUTTER</code></td>
-    <td align="center" width="33%"><img src="./assets/icons/fastapi.svg" width="32" alt="FastAPI" /><br/><code>FASTAPI</code></td>
-    <td align="center" width="33%"><img src="./assets/icons/html5.svg" width="32" alt="HTML5" /><br/><code>HTML5</code></td>
-    <td align="center"><img src="./assets/icons/css.svg" width="32" alt="CSS" /><br/><code>CSS</code></td>
-    <td align="center"><img src="./assets/icons/javascript.svg" width="32" alt="JavaScript" /><br/><code>JAVASCRIPT</code></td>
-  </tr>
-</table>
-
-<sub>◉ DATA BAY</sub>
-
-<table>
-  <tr>
-    <td align="center" width="50%"><img src="./assets/icons/postgresql.svg" width="32" alt="PostgreSQL" /><br/><code>POSTGRESQL</code></td>
-    <td align="center" width="50%"><img src="./assets/icons/supabase.svg" width="32" alt="Supabase" /><br/><code>SUPABASE</code></td>
-  </tr>
-</table>
-
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 <br/>
 
 ## transmission log
