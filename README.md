@@ -17,19 +17,16 @@
 <div>
 
   <img
-    height="40"
     src="https://komarev.com/ghpvc/?username=Yuvraj1954&label=station%20visitors&color=5eead4&style=flat-square"
     alt="Profile views"
   />
 
   <img
-    height="40"
     src="https://img.shields.io/github/followers/Yuvraj1954?label=crew&style=flat-square&color=5eead4&labelColor=0b1020"
     alt="GitHub followers"
   />
 
   <img
-    height="40"
     src="https://img.shields.io/github/stars/Yuvraj1954?affiliations=OWNER&label=stars%20collected&style=flat-square&color=ffcb6b&labelColor=0b1020"
     alt="GitHub stars"
   />
