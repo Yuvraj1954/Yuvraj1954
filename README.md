@@ -45,28 +45,3 @@ Live activity belongs to GitHub itself — no paused dashboard deployment in the
   <a href="https://github.com/Yuvraj1954?tab=repositories">repositories</a> &nbsp;·&nbsp;
   <a href="https://github.com/Yuvraj1954?tab=stars">stars</a>
 </div>
-
-<details>
-<summary><sub>diagnostics // do not press unless curious</sub></summary>
-<br/>
-
-```text
-BUG DATABASE
-├── “I'll only change the README”                 OPEN
-├── naming something *_final before it is final   RECURRING
-├── one-more-feature syndrome                      BY DESIGN
-└── works-on-my-machine                            MACHINE IS NOW IMPORTANT INFRASTRUCTURE
-```
-
-<sub>Station policy: broken versions are not failures; they are field research with better stories.</sub>
-</details>
-
-<br/>
-
----
-
-<div align="center">
-  <code>◇ YUVRAJ // CALLSIGN: 1954 // BUILD MODE: ON ◇</code>
-  <br/><br/>
-  <sub>transmitting from <a href="https://github.com/Yuvraj1954">github.com/Yuvraj1954</a> · 1954 is a callsign, not a timestamp.</sub>
-</div>
