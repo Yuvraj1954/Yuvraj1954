@@ -34,13 +34,14 @@ KNOWN_ANOMALY      feature creep detected beyond visual range
 
 <br/>
 
-## transmission telemetry
+## GitHub trail
+
+Live activity belongs to GitHub itself — no paused dashboard deployment in the middle.
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yuvraj1954&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;bg_color=0B1020&amp;title_color=FFFFFF&amp;text_color=FFFFFF&amp;icon_color=5EEAD4&amp;ring_color=FFCB6B" alt="Yuvraj's GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Yuvraj1954&amp;hide_border=true&amp;background=0B1020&amp;ring=FFCB6B&amp;fire=FF8FB3&amp;currStreakLabel=5EEAD4&amp;sideLabels=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakNum=FFFFFF&amp;dates=FFFFFF&amp;stroke=0B1020" alt="Yuvraj's GitHub contribution streak" />
-  <br/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj1954&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1020&amp;title_color=FFFFFF&amp;text_color=FFFFFF" alt="Most-used languages" />
+  <a href="https://github.com/Yuvraj1954">contribution graph</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Yuvraj1954?tab=repositories">repositories</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Yuvraj1954?tab=stars">stars</a>
 </div>
 
 <details>
