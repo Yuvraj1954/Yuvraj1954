@@ -22,7 +22,7 @@
 
 <br/>
 
-## developer loadout // equipped
+## developer loadout
 
 <sub>◉ LANGUAGE CORE</sub>
 
