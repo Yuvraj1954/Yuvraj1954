@@ -45,3 +45,20 @@ Live activity belongs to GitHub itself — no paused dashboard deployment in the
   <a href="https://github.com/Yuvraj1954?tab=repositories">repositories</a> &nbsp;·&nbsp;
   <a href="https://github.com/Yuvraj1954?tab=stars">stars</a>
 </div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/output/github-snake.svg"
+    alt="GitHub contribution snake"
+    width="100%"
+  />
+</picture>
