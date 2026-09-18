@@ -14,7 +14,7 @@
 > **STATUS:** a developer currently teaching small machines to do interesting things.
 > Python, C/C++, Flutter, FastAPI, data, games, automation — and the slightly reckless idea that it might work.
 
-<div>
+<div style="font-size: 20px">
   <img src="https://komarev.com/ghpvc/?username=Yuvraj1954&amp;label=station%20visitors&amp;color=5eead4&amp;style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Yuvraj1954?label=crew&amp;style=flat-square&amp;color=5eead4&amp;labelColor=0b1020" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Yuvraj1954?affiliations=OWNER&amp;label=stars%20collected&amp;style=flat-square&amp;color=ffcb6b&amp;labelColor=0b1020" alt="GitHub stars" />
@@ -22,7 +22,7 @@
 
 <br/>
 
-## developer loadout // equipped
+## developer loadout 
 
 <div align="center">
   <img src="./assets/loadout.svg" width="100%" alt="Developer loadout HUD showing Python, C, C++, Dart, SQL, Flutter, FastAPI, HTML, CSS, JavaScript, PostgreSQL and Supabase" />
