@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Yuvraj's Orbiting Debug Station</title><desc id="desc">An animated space-station terminal welcoming visitors to Yuvraj's coder world.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#090d1d"/><stop offset="1" stop-color="#130d25"/></linearGradient>
+    <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#18253c"/><stop offset="1" stop-color="#0c1224"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#253452" stroke-width=".65" opacity=".55"/></pattern>
+  </defs>
+  <rect width="1200" height="460" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="460" rx="20" fill="url(#grid)"/>
+  <g fill="#98caff"><circle cx="76" cy="54" r="1.4"/><circle cx="318" cy="100" r="1"/><circle cx="1080" cy="83" r="1.4"/><circle cx="1137" cy="331" r="1"/><circle cx="1034" cy="398" r="1.3"/><circle cx="125" cy="385" r="1"/></g>
+  <g opacity=".78"><circle cx="1075" cy="145" r="44" fill="none" stroke="#ab7cff"/><circle cx="1075" cy="145" r="29" fill="#272049"/><path d="M1016 145h118M1075 86v118" stroke="#ab7cff" stroke-width="1"/><circle cx="1108" cy="120" r="6" fill="#ffcb6b" filter="url(#glow)"><animate attributeName="cy" values="120;170;120" dur="5s" repeatCount="indefinite"/></circle></g>
+  <g transform="translate(70 64)">
+    <rect width="810" height="310" rx="14" fill="#080c17" stroke="#52719a" stroke-width="2"/>
+    <path d="M0 45h810" stroke="#52719a"/><circle cx="27" cy="23" r="7" fill="#ff6b8b"/><circle cx="51" cy="23" r="7" fill="#ffcb6b"/><circle cx="75" cy="23" r="7" fill="#5eead4"/>
+    <text x="105" y="29" fill="#8ea6c8" font-family="monospace" font-size="15">station://orbit-1954/visitor-console</text>
+    <g font-family="monospace" font-size="18"><text x="35" y="85" fill="#5eead4">◈ HANDSHAKE ACCEPTED</text><text x="35" y="120" fill="#9eb3d1">scanning visitor for unfinished side projects...</text><text x="35" y="155" fill="#9eb3d1">locating resident developer...........................</text></g>
+    <g font-family="monospace"><text x="35" y="218" fill="#f4f7ff" font-size="49" font-weight="700" letter-spacing="4">YUVRAJ</text><text x="38" y="251" fill="#ffcb6b" font-size="17">maintainer of systems, experiments &amp; improbable ideas</text><text x="38" y="283" fill="#5eead4" font-size="16">› enter with curiosity_</text></g>
+    <rect x="392" y="267" width="10" height="18" fill="#5eead4"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
+  </g>
+  <g transform="translate(937 250)" stroke="#5eead4" fill="none" opacity=".95"><path d="M0 90 96 40l94 50-96 51z" fill="#14243a"/><path d="M96 40v101M0 90l96 51 94-51M23 78l73 38 71-38"/><path d="M96 5v35" stroke="#ffcb6b"/><circle cx="96" cy="1" r="5" fill="#ffcb6b" filter="url(#glow)"><animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/></circle></g>
+  <text x="70" y="421" fill="#5d7298" font-family="monospace" font-size="13">ORBITING DEBUG STATION · ALL SYSTEMS NOMINALLY FUNCTIONAL</text>
+</svg>
