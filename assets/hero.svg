@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
   <title id="title">Yuvraj's Orbiting Debug Station</title>
-  <desc id="desc">An animated developer terminal paired with a refined systems schematic.</desc>
+  <desc id="desc">An animated developer terminal paired with a layered live build graph.</desc>
   <defs>
     <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#090d1d"/><stop offset="1" stop-color="#130d25"/></linearGradient>
     <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
@@ -17,14 +17,24 @@
     <g font-family="monospace"><text x="35" y="218" fill="#f4f7ff" font-size="49" font-weight="700" letter-spacing="4">YUVRAJ</text><text x="38" y="251" fill="#ffcb6b" font-size="17">maintainer of systems, experiments &amp; improbable ideas</text><text x="38" y="283" fill="#5eead4" font-size="16">› enter with curiosity_</text></g>
     <rect x="392" y="267" width="10" height="18" fill="#5eead4"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
   </g>
-  <!-- a quiet diagnostic schematic: no orbiting ball, no pyramid -->
-  <g transform="translate(950 105)" font-family="monospace">
-    <rect width="180" height="205" rx="12" fill="#0b1325" stroke="#45638c" stroke-width="1.5"/>
-    <path d="M0 38h180" stroke="#45638c"/><text x="18" y="25" fill="#9eb3d1" font-size="12">SYSTEM SCHEMATIC</text>
-    <g fill="none" stroke-linecap="round"><path d="M25 70h50l15 14h65" stroke="#5eead4" stroke-width="2"/><path d="M25 112h28l14-16h88" stroke="#ffcb6b" stroke-width="2"/><path d="M25 154h45l13 14h72" stroke="#ab7cff" stroke-width="2"/></g>
-    <g fill="#0b1325" stroke-width="2"><rect x="18" y="63" width="14" height="14" stroke="#5eead4"/><rect x="148" y="77" width="14" height="14" stroke="#5eead4"/><rect x="18" y="105" width="14" height="14" stroke="#ffcb6b"/><rect x="148" y="89" width="14" height="14" stroke="#ffcb6b"/><rect x="18" y="147" width="14" height="14" stroke="#ab7cff"/><rect x="148" y="161" width="14" height="14" stroke="#ab7cff"/></g>
-    <g font-size="10" fill="#8299bc"><text x="18" y="194">BUILD · TEST · REPEAT</text></g>
-    <rect x="20" y="48" width="3" height="126" fill="#5eead4" opacity=".75"><animate attributeName="x" values="20;157;20" dur="3.5s" repeatCount="indefinite"/></rect>
+  <!-- build graph: a compact control module instead of a decorative orbit -->
+  <g transform="translate(920 80)" font-family="monospace">
+    <rect width="240" height="260" rx="14" fill="#0a1121" stroke="#45638c" stroke-width="1.5"/>
+    <path d="M0 39h240M0 218h240" stroke="#314a70"/>
+    <text x="18" y="25" fill="#d9e8ff" font-size="12" letter-spacing="1">BUILD GRAPH / LIVE</text><circle cx="213" cy="20" r="4" fill="#5eead4" filter="url(#glow)"><animate attributeName="opacity" values="1;.35;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <!-- fine technical grid inside the module -->
+    <g stroke="#203452" stroke-width=".7" opacity=".85"><path d="M18 58h204M18 82h204M18 106h204M18 130h204M18 154h204M18 178h204M18 202h204"/><path d="M42 52v158M72 52v158M102 52v158M132 52v158M162 52v158M192 52v158"/></g>
+    <!-- system nodes -->
+    <g fill="#101b31" stroke-width="1.5"><rect x="18" y="66" width="47" height="23" rx="5" stroke="#5eead4"/><rect x="175" y="66" width="47" height="23" rx="5" stroke="#ffcb6b"/><rect x="18" y="174" width="47" height="23" rx="5" stroke="#ab7cff"/><rect x="175" y="174" width="47" height="23" rx="5" stroke="#5eead4"/></g>
+    <g font-size="8.5" text-anchor="middle"><text x="41.5" y="81" fill="#bffaf2">INPUT</text><text x="198.5" y="81" fill="#ffe3aa">PATCH</text><text x="41.5" y="189" fill="#e0d0ff">DATA</text><text x="198.5" y="189" fill="#bffaf2">SHIP</text></g>
+    <!-- central code core -->
+    <path d="M120 98 151 116v36l-31 18-31-18v-36z" fill="#142945" stroke="#5eead4" stroke-width="2" filter="url(#glow)"/>
+    <path d="m111 121-8 13 8 13M129 121l8 13-8 13" fill="none" stroke="#f4f7ff" stroke-width="2" stroke-linecap="round"/>
+    <!-- routes flow in one direction; no bouncing objects -->
+    <g fill="none" stroke-linecap="round"><path d="M65 77h30l25 39M151 134l24-56M65 185h29l26-33M151 134l24 51" stroke="#4a6488" stroke-width="2"/><path d="M65 77h30l25 39M151 134l24-56M65 185h29l26-33M151 134l24 51" stroke="#5eead4" stroke-width="2" stroke-dasharray="4 54" stroke-dashoffset="58" opacity=".9"><animate attributeName="stroke-dashoffset" values="58;0" dur="3.2s" repeatCount="indefinite"/></path></g>
+    <!-- low-key event trace -->
+    <g font-size="8" fill="#7d96bb"><text x="18" y="237">TRACE:</text><text x="62" y="237" fill="#5eead4">idea</text><text x="92" y="237">→</text><text x="104" y="237" fill="#ffcb6b">build</text><text x="140" y="237">→</text><text x="152" y="237" fill="#ab7cff">learn</text></g>
+    <rect x="18" y="247" width="204" height="3" rx="1.5" fill="#263b5c"/><rect x="18" y="247" width="130" height="3" rx="1.5" fill="#5eead4"><animate attributeName="width" values="78;170;130;78" dur="4s" repeatCount="indefinite"/></rect>
   </g>
   <text x="70" y="421" fill="#5d7298" font-family="monospace" font-size="13">ORBITING DEBUG STATION · ALL SYSTEMS NOMINALLY FUNCTIONAL</text>
 </svg>

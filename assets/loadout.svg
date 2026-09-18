@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 520" role="img" aria-labelledby="title desc">
+  <title id="title">Developer loadout</title>
+  <desc id="desc">A futuristic developer loadout HUD featuring visual icons for languages, build tools, and data technologies.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#101a30"/><stop offset="1" stop-color="#090d1d"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#263858" stroke-width=".6" opacity=".6"/></pattern>
+  </defs>
+  <rect width="1100" height="520" rx="18" fill="url(#bg)"/><rect width="1100" height="520" rx="18" fill="url(#grid)"/>
+  <path d="M38 78h1024M38 448h1024" stroke="#405e88"/><path d="M38 78h175" stroke="#5eead4" stroke-width="3"/>
+  <g font-family="monospace"><text x="40" y="48" font-size="22" font-weight="700" letter-spacing="2" fill="#f1f6ff">DEVELOPER LOADOUT</text><text x="40" y="67" font-size="11" fill="#8ea7ca">EQUIPPED MODULES // BUILT WITH, NOT JUST COLLECTED</text><text x="954" y="48" font-size="12" fill="#5eead4">◉ ONLINE</text></g>
+  <g font-family="monospace" font-size="13" font-weight="700"><text x="40" y="110" fill="#5eead4">01 / LANGUAGES</text><text x="40" y="231" fill="#ffcb6b">02 / BUILD DECK</text><text x="40" y="352" fill="#ab7cff">03 / DATA BAY</text></g>
+  <!-- Each tile is a local SVG icon card: compact enough to scale on mobile. -->
+  <g font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">
+    <!-- LANGUAGES -->
+    <g transform="translate(190 92)"><rect width="145" height="88" rx="9" fill="#112039" stroke="#416790"/><path d="M44 18h24a10 10 0 0 1 10 10v12H54a10 10 0 0 0-10 10V40a10 10 0 0 1-10-10z" fill="#3776ab"/><path d="M68 62H44a10 10 0 0 1-10-10V40h24a10 10 0 0 0 10-10v10a10 10 0 0 1 10 10v2a10 10 0 0 1-10 10z" fill="#ffd343"/><circle cx="55" cy="29" r="2.5" fill="#fff"/><circle cx="57" cy="52" r="2.5" fill="#fff"/><text x="72" y="76" fill="#eaf3ff" font-size="14">PYTHON</text></g>
+    <g transform="translate(348 92)"><rect width="145" height="88" rx="9" fill="#112039" stroke="#416790"/><circle cx="72" cy="37" r="23" fill="#5d82bd"/><text x="72" y="46" fill="#fff" font-size="26">C</text><text x="72" y="76" fill="#eaf3ff" font-size="14">C</text></g>
+    <g transform="translate(506 92)"><rect width="145" height="88" rx="9" fill="#112039" stroke="#416790"/><circle cx="72" cy="37" r="23" fill="#5d82bd"/><text x="72" y="44" fill="#fff" font-size="19">C++</text><text x="72" y="76" fill="#eaf3ff" font-size="14">C++</text></g>
+    <g transform="translate(664 92)"><rect width="145" height="88" rx="9" fill="#112039" stroke="#416790"/><path d="m50 16 27 16v28L50 76 37 68l27-16-14-8z" fill="#00a8e1"/><path d="m77 32 18 11-18 19-13-8z" fill="#0075be"/><text x="72" y="76" fill="#eaf3ff" font-size="14">DART</text></g>
+    <g transform="translate(822 92)"><rect width="145" height="88" rx="9" fill="#112039" stroke="#416790"/><ellipse cx="72" cy="28" rx="24" ry="9" fill="#83a6c9"/><path d="M48 28v27c0 12 48 12 48 0V28" fill="#4d759c"/><ellipse cx="72" cy="55" rx="24" ry="9" fill="#4d759c"/><text x="72" y="76" fill="#eaf3ff" font-size="14">SQL</text></g>
+    <!-- BUILD -->
+    <g transform="translate(190 213)"><rect width="145" height="88" rx="9" fill="#1e2841" stroke="#6677aa"/><path d="m39 19 28-17 18 18-28 17zM39 38l28 17 18-18-28-17z" fill="#54c5f8"/><path d="m72 55 20-19-9-9-20 19z" fill="#0b8eda"/><text x="72" y="76" fill="#eaf3ff" font-size="14">FLUTTER</text></g>
+    <g transform="translate(348 213)"><rect width="145" height="88" rx="9" fill="#1e2841" stroke="#6677aa"/><circle cx="72" cy="37" r="23" fill="#009688"/><path d="m77 16-15 24h11l-5 19 17-27H74z" fill="#fff"/><text x="72" y="76" fill="#eaf3ff" font-size="14">FASTAPI</text></g>
+    <g transform="translate(506 213)"><rect width="145" height="88" rx="9" fill="#1e2841" stroke="#6677aa"/><path d="m47 12h50l-5 48-20 11-20-11z" fill="#ef652a"/><text x="72" y="51" fill="#fff" font-size="23">5</text><text x="72" y="76" fill="#eaf3ff" font-size="14">HTML</text></g>
+    <g transform="translate(664 213)"><rect width="145" height="88" rx="9" fill="#1e2841" stroke="#6677aa"/><path d="m47 12h50l-5 48-20 11-20-11z" fill="#2d74b9"/><text x="72" y="51" fill="#fff" font-size="23">3</text><text x="72" y="76" fill="#eaf3ff" font-size="14">CSS</text></g>
+    <g transform="translate(822 213)"><rect width="145" height="88" rx="9" fill="#1e2841" stroke="#6677aa"/><rect x="48" y="14" width="48" height="48" fill="#f7df1e"/><text x="72" y="48" fill="#111" font-size="18">JS</text><text x="72" y="76" fill="#eaf3ff" font-size="14">JAVASCRIPT</text></g>
+    <!-- DATA -->
+    <g transform="translate(427 334)"><rect width="145" height="88" rx="9" fill="#281f42" stroke="#8169aa"/><path d="M72 14c-19 0-27 12-27 26 0 16 11 26 27 26s27-10 27-26c0-14-8-26-27-26z" fill="#336791"/><path d="M56 39c6-7 13-7 19 0M59 51c5 4 12 4 17 0M61 29l-6-6M84 29l6-6" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/><text x="72" y="76" fill="#eaf3ff" font-size="13">POSTGRESQL</text></g>
+    <g transform="translate(585 334)"><rect width="145" height="88" rx="9" fill="#281f42" stroke="#8169aa"/><path d="m72 13 22 23-22 26-22-26z" fill="#3ecf8e"/><path d="m77 20-13 20h12l-6 17 19-24H76z" fill="#113c2d"/><text x="72" y="76" fill="#eaf3ff" font-size="13">SUPABASE</text></g>
+  </g>
+  <g font-family="monospace" font-size="12"><text x="40" y="485" fill="#a5b8d6">CODE</text><rect x="93" y="475" width="145" height="10" rx="5" fill="#5eead4"/><text x="252" y="485" fill="#5eead4">ONLINE</text><text x="420" y="485" fill="#a5b8d6">IDEAS</text><rect x="480" y="475" width="145" height="10" rx="5" fill="#ffcb6b"/><text x="639" y="485" fill="#ffcb6b">OVERFLOW</text><text x="815" y="485" fill="#a5b8d6">BUGS</text><rect x="866" y="475" width="76" height="10" rx="5" fill="#ab7cff"/><rect x="948" y="475" width="55" height="10" rx="5" fill="#263858"/><text x="1015" y="485" fill="#ab7cff">CONTAINED*</text></g>
+</svg>

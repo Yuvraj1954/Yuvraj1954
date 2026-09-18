@@ -22,40 +22,25 @@
 
 <br/>
 
-## console inventory
+## developer loadout // equipped
 
-```text
-LANGUAGE_CORE      Python · C · C++ · SQL · Dart
-BUILD_ENGINES      FastAPI · Flutter · HTML/CSS/JavaScript
-DATA_LOCKER        PostgreSQL · Supabase
-FAVORITE_BUTTON    "run it and see"
-KNOWN_ANOMALY      feature creep detected beyond visual range
-```
+<div align="center">
+  <img src="./assets/loadout.svg" width="100%" alt="Developer loadout HUD showing Python, C, C++, Dart, SQL, Flutter, FastAPI, HTML, CSS, JavaScript, PostgreSQL and Supabase" />
+</div>
 
 <br/>
 
-## GitHub trail
+## transmission log
 
-Live activity belongs to GitHub itself — no paused dashboard deployment in the middle.
+> **SIGNAL DETECTED:** commits, experiments, and fixes left behind by a terminal session that was supposed to be “quick.”
 
 <div align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Yuvraj1954&amp;hide_border=true&amp;background=0B1020&amp;ring=FFCB6B&amp;fire=FF8FB3&amp;currStreakLabel=5EEAD4&amp;sideLabels=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakNum=FFFFFF&amp;dates=FFFFFF&amp;stroke=0B1020" alt="Yuvraj's GitHub contribution streak" />
   <br/>
 </div>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/output/github-snake-dark.svg"
-  />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/output/github-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/output/github-snake.svg"
-    alt="GitHub contribution snake"
-    width="100%"
-  />
-</picture>
+<div align="center">
+  <sub>◉ the grid wakes up after every build</sub>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/output/github-snake.gif" alt="Animated snake travelling through Yuvraj's GitHub contribution history" width="100%" />
+</div>
