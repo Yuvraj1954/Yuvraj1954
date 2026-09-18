@@ -57,11 +57,6 @@
   </tr>
 </table>
 
-```text
-CODE       ██████████  ONLINE
-IDEAS      ██████████  OVERFLOW
-BUGS       ███████░░░  CONTAINED*
-```
 
 <br/>
 
