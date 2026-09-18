@@ -14,10 +14,28 @@
 > **STATUS:** a developer currently teaching small machines to do interesting things.
 > Python, C/C++, Flutter, FastAPI, data, games, automation — and the slightly reckless idea that it might work.
 
-<div style="font-size: 40px">
-  <img src="https://komarev.com/ghpvc/?username=Yuvraj1954&amp;label=station%20visitors&amp;color=5eead4&amp;style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Yuvraj1954?label=crew&amp;style=flat-square&amp;color=5eead4&amp;labelColor=0b1020" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Yuvraj1954?affiliations=OWNER&amp;label=stars%20collected&amp;style=flat-square&amp;color=ffcb6b&amp;labelColor=0b1020" alt="GitHub stars" />
+<div>
+<div align="center">
+
+  <img
+    height="40"
+    src="https://komarev.com/ghpvc/?username=Yuvraj1954&label=station%20visitors&color=5eead4&style=flat-square"
+    alt="Profile views"
+  />
+
+  <img
+    height="40"
+    src="https://img.shields.io/github/followers/Yuvraj1954?label=crew&style=flat-square&color=5eead4&labelColor=0b1020"
+    alt="GitHub followers"
+  />
+
+  <img
+    height="40"
+    src="https://img.shields.io/github/stars/Yuvraj1954?affiliations=OWNER&label=stars%20collected&style=flat-square&color=ffcb6b&labelColor=0b1020"
+    alt="GitHub stars"
+  />
+
+</div>
 </div>
 
 <br/>
