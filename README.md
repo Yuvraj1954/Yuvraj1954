@@ -15,7 +15,6 @@
 > Python, C/C++, Flutter, FastAPI, data, games, automation — and the slightly reckless idea that it might work.
 
 <div>
-<div align="center">
 
   <img
     height="40"
@@ -35,7 +34,6 @@
     alt="GitHub stars"
   />
 
-</div>
 </div>
 
 <br/>
