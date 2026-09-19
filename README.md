@@ -32,13 +32,11 @@
 
 <!-- Stats + Productive Time -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvraj1954&theme=tokyonight" width="49%" alt="GitHub Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yuvraj1954&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive Time"/>
 
 <br><br>
 
 <!-- Languages -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvraj1954&theme=tokyonight" width="49%" alt="Repositories per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yuvraj1954&theme=tokyonight" width="49%" alt="Most Commit Language"/>
 
 </div>
 <br/>
