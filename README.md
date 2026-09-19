@@ -32,9 +32,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvraj1954&theme=tokyonight" height="170" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yuvraj1954&theme=tokyonight" height="170" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvraj1954&theme=tokyonight" height="170" alt="Stats"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvraj1954&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvraj1954&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yuvraj1954&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvraj1954&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yuvraj1954&theme=holi&utcOffset=0)
 </div>
 
 <div align="center">
