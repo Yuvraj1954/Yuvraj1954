@@ -24,11 +24,9 @@
 
 <!-- Stats -->
  <img src="https://streak-stats.demolab.com/?user=Yuvraj1954&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yuvraj1954&theme=holi&utcOffset=5.5" width="49%" alt="Productive Time"/>
 
 <!-- Languages -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvraj1954&theme=holi" width="49%" alt="Repositories per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yuvraj1954&theme=holi" width="49%" alt="Most Commit Language"/>
 </div>
 
 <div align="center">
