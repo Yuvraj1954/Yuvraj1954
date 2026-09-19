@@ -2,10 +2,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/main/assets/terminal.svg?v=2" width="100%" alt="Yuvraj's Terminal" />
 </div>
-
-> **STATUS:** a developer currently teaching small machines to do interesting things.
-> Python, C/C++, Flutter, FastAPI, data, games, automation — and the slightly reckless idea that it might work.
-
 <h1 style="display: inline;"> Tech Stack</h1>
 
 **Languages**
