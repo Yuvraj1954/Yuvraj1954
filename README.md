@@ -27,9 +27,6 @@
 <br/>
 <h1 style="display: inline;"> Contribution Signal</h1>
 <br>
-
-## GitHub Stats
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvraj1954&theme=tokyonight" width="100%" alt="Profile Details"/>
 </div>
