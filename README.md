@@ -1,9 +1,3 @@
-<!--
-  you found the maintenance hatch.
-
-  station note: a thing called `forensic_audit_final.py` is evidence that
-  the word "final" is a mood, not a contract.
--->
 
 <div align="center">
   <img src="./assets/terminal.svg" width="100%" alt="Yuvraj's Terminal" />
