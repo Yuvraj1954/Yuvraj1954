@@ -142,10 +142,10 @@
     </text>
   </g>
 
-  <!-- OUT 4: fadeIn -->
-  <g class="o8">
-    <text x="24" y="354" fill="#e6edf3" font-family="ui-monospace, 'SF Mono', 'Fira Code', monospace" font-size="15">2021-12-09 · up 4 years · still shipping</text>
-  </g>
+<!-- OUT 4: fadeIn -->
+<g class="o8">
+  <text x="24" y="354" fill="#e6edf3" font-family="ui-monospace, 'SF Mono', 'Fira Code', monospace" font-size="15">2021-12-09 · uptime 4y 9m · still shipping</text>
+</g>
 
   <!-- CMD 5: typewriter -->
   <g clip-path="url(#t9)">
