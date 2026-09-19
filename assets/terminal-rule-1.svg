@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal rule one loop</title>
+  <desc id="desc">A terminal shows a working repository, a risky script, errors, and git checkout restoring it.</desc>
+  <defs>
+    <!-- Each expanding clip reveals its command like it is being typed. -->
+    <clipPath id="type-status"><rect x="28" y="50" width="0" height="70"><animate attributeName="width" values="0;0;304;304" keyTimes="0;.04;.16;.34" dur="5s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="type-change"><rect x="28" y="50" width="0" height="20"><animate attributeName="width" values="0;0;304;304" keyTimes="0;.30;.36;.52" dur="5s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="type-error"><rect x="28" y="50" width="0" height="58"><animate attributeName="width" values="0;0;304;304" keyTimes="0;.48;.57;.74" dur="5s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="type-undo"><rect x="28" y="50" width="0" height="70"><animate attributeName="width" values="0;0;304;304" keyTimes="0;.70;.79;.98" dur="5s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <rect width="360" height="240" rx="14" fill="#07120e"/>
+  <rect x="14" y="14" width="332" height="212" rx="10" fill="#06100c" stroke="#39d98a" stroke-opacity=".45"/>
+  <circle cx="31" cy="32" r="4" fill="#ff6f91"/><circle cx="45" cy="32" r="4" fill="#ffcb6b"/><circle cx="59" cy="32" r="4" fill="#39d98a"/>
+  <text x="77" y="36" fill="#39d98a" fill-opacity=".75" font-family="monospace" font-size="10">yuvraj@station: ~/repo</text>
+  <g font-family="monospace" font-size="10.5">
+    <g opacity="0" clip-path="url(#type-status)"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.30;.34" dur="5s" repeatCount="indefinite"/><text x="28" y="63" fill="#39d98a">$ git status</text><text x="28" y="80" fill="#b4f7d3">✓ everything works</text><text x="28" y="96" fill="#b4f7d3">✓ tests passing</text><text x="28" y="112" fill="#b4f7d3">✓ production stable</text></g>
+    <g opacity="0" clip-path="url(#type-change)"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.30;.36;.48;.52" dur="5s" repeatCount="indefinite"/><text x="28" y="63" fill="#39d98a">$ ./change_one_thing.sh</text></g>
+    <g opacity="0" clip-path="url(#type-error)"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.48;.54;.70;.74" dur="5s" repeatCount="indefinite"/><text x="28" y="63" fill="#ff718f">ERROR: █████████████</text><text x="28" y="80" fill="#ff718f">ERROR: █████████████</text><text x="28" y="97" fill="#ff718f">ERROR: █████████████</text></g>
+    <g opacity="0" clip-path="url(#type-undo)"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.70;.76;.96;1" dur="5s" repeatCount="indefinite"/><text x="28" y="63" fill="#39d98a">$ git checkout -- .</text><text x="28" y="84" fill="#b4f7d3">✓ everything works again</text><text x="28" y="112" fill="#39d98a">$ <tspan fill="#b4f7d3">█</tspan></text></g>
+  </g>
+  <rect x="28" y="198" width="304" height="1" fill="#39d98a" fill-opacity=".16"/>
+  <text x="28" y="215" fill="#39d98a" fill-opacity=".65" font-family="monospace" font-size="9">TERMINAL · SAFE MODE ENABLED</text>
+</svg>
