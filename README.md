@@ -15,9 +15,11 @@
 > Python, C/C++, Flutter, FastAPI, data, games, automation — and the slightly reckless idea that it might work.
 
 <div align="center">
-
-![Profile statistics](./assets/profile-stats.svg)
-
+  <img
+    src="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/main/assets/station-stats.svg"
+    width="100%"
+    alt="Station statistics"
+  />
 </div>
 
 <br/>
