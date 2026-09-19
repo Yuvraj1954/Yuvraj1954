@@ -65,8 +65,8 @@
 
 </div>
 
+<h1 style="display: inline;"> Git Stats</h1>
 <div align="center">
-
 <!-- Profile Details -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvraj1954&theme=tokyonight&animation=draw" width="100%" alt="Profile Details"/>
 
