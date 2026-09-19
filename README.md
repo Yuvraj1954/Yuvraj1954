@@ -49,7 +49,6 @@
 <br/>
 
 <div align="center">
-  <sub>◉ the grid wakes up after every build</sub>
   <br/><br/>
   <img src="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/output/github-snake.gif" alt="Animated snake travelling through Yuvraj's GitHub contribution history" width="100%" />
 </div>
