@@ -20,7 +20,6 @@
 <td align="center"><img src="https://img.shields.io/github/stars/Yuvraj1954?affiliations=OWNER&label=STARS%20COLLECTED&style=flat-square&color=5eead4&labelColor=0b1020" alt="Stars collected"></td>
 </tr></table></div>
 
-<br/>
 
 <h1 style="display: inline;"> Tech Stack</h1>
 
