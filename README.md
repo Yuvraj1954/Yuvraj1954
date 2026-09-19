@@ -18,42 +18,28 @@
 
 <table>
 <tr>
-<td align="center">
-
-<sub>◉ &nbsp; STATION VISITORS</sub><br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=Yuvraj1954&label=visitors&style=flat-square&color=5eead4"
-  alt="Station visitors"
-/>
-
-</td>
-
-<td width="30"></td>
 
 <td align="center">
-
-<sub>◇ &nbsp; CREW</sub><br/>
-
-<img
-  src="https://img.shields.io/github/followers/Yuvraj1954?label=crew&style=flat-square&color=5eead4&labelColor=0b1020"
-  alt="Crew"
-/>
-
+  <img
+    src="https://komarev.com/ghpvc/?username=Yuvraj1954&label=STATION%20VISITORS&style=for-the-badge&color=5eead4&labelColor=0b1020"
+    alt="Station Visitors"
+  />
 </td>
-
-<td width="30"></td>
 
 <td align="center">
-
-<sub>★ &nbsp; STARS COLLECTED</sub><br/>
-
-<img
-  src="https://img.shields.io/github/stars/Yuvraj1954?affiliations=OWNER&label=stars&style=flat-square&color=5eead4&labelColor=0b1020"
-  alt="Stars collected"
-/>
-
+  <img
+    src="https://img.shields.io/github/followers/Yuvraj1954?label=CREW&style=for-the-badge&color=5eead4&labelColor=0b1020"
+    alt="Crew"
+  />
 </td>
+
+<td align="center">
+  <img
+    src="https://img.shields.io/github/stars/Yuvraj1954?affiliations=OWNER&label=STARS%20COLLECTED&style=for-the-badge&color=5eead4&labelColor=0b1020"
+    alt="Stars Collected"
+  />
+</td>
+
 </tr>
 </table>
 
