@@ -14,36 +14,11 @@
 > **STATUS:** a developer currently teaching small machines to do interesting things.
 > Python, C/C++, Flutter, FastAPI, data, games, automation — and the slightly reckless idea that it might work.
 
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-<img
-  src="https://komarev.com/ghpvc/?username=Yuvraj1954&label=STATION%20VISITORS&style=flat-square&color=5eead4"
-  alt="Station visitors"
-/>
-</td>
-
-<td align="center">
-<img
-  src="https://img.shields.io/github/followers/Yuvraj1954?label=CREW&style=flat-square&color=5eead4&labelColor=0b1020"
-  alt="Crew"
-/>
-</td>
-
-<td align="center">
-<img
-  src="https://img.shields.io/github/stars/Yuvraj1954?affiliations=OWNER&label=STARS%20COLLECTED&style=flat-square&color=5eead4&labelColor=0b1020"
-  alt="Stars collected"
-/>
-</td>
-
-</tr>
-</table>
-
-</div>
+<div align="center"><table><tr>
+<td align="center"><img src="https://komarev.com/ghpvc/?username=Yuvraj1954&label=STATION%20VISITORS&style=flat-square&color=5eead4&labelColor=0b1020" alt="Station visitors"></td>
+<td align="center"><img src="https://img.shields.io/github/followers/Yuvraj1954?label=CREW&style=flat-square&color=5eead4&labelColor=0b1020" alt="Crew"></td>
+<td align="center"><img src="https://img.shields.io/github/stars/Yuvraj1954?affiliations=OWNER&label=STARS%20COLLECTED&style=flat-square&color=5eead4&labelColor=0b1020" alt="Stars collected"></td>
+</tr></table></div>
 
 <br/>
 
