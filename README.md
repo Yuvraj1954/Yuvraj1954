@@ -13,6 +13,13 @@
 
 > **STATUS:** a developer currently teaching small machines to do interesting things.
 > Python, C/C++, Flutter, FastAPI, data, games, automation — and the slightly reckless idea that it might work.
+
+<div align="center">
+    <img
+    src="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/main/assets/profile-stats.svg?v=2"
+    alt="Profile statistics"
+  />
+</div>
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/main/assets/profile-stats.svg?v=2"
