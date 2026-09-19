@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update terminal SVG
+      - name: Update terminal SVG and README cache key
         run: python scripts/update_terminal.py
 
       - name: Commit changes
@@ -24,7 +24,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add assets/terminal.svg
+          git add assets/terminal.svg README.md
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
