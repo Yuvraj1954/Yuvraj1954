@@ -1,9 +1,7 @@
 
 <div align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Yuvraj's Terminal" />
+  <img src="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/main/assets/terminal.svg?v=2" width="100%" alt="Yuvraj's Terminal" />
 </div>
-
-<br/>
 
 > **STATUS:** a developer currently teaching small machines to do interesting things.
 > Python, C/C++, Flutter, FastAPI, data, games, automation — and the slightly reckless idea that it might work.
