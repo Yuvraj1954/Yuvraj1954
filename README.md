@@ -23,20 +23,21 @@
 
 <h1 style="display: inline;"> Tech Stack</h1>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-<br/>
-<h1 style="display: inline;"> Contribution Signal</h1>
-<br>
-<div align="center">
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvraj1954&theme=tokyonight" width="100%" alt="Profile Details"/>
 </div>
 
 <div align="center">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvraj1954&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvraj1954&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yuvraj1954&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvraj1954&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yuvraj1954&theme=holi&utcOffset=0)
+<!-- Profile Details -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvraj1954&theme=holi" width="100%" alt="Profile Details"/>
+
+<!-- Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvraj1954&theme=holi" width="49%" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yuvraj1954&theme=holi&utcOffset=5.5" width="49%" alt="Productive Time"/>
+
+<!-- Languages -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvraj1954&theme=holi" width="49%" alt="Repositories per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yuvraj1954&theme=holi" width="49%" alt="Most Commit Language"/>
 </div>
 
 <div align="center">
