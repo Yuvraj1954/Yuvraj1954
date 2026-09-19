@@ -34,7 +34,7 @@
   <circle cx="24" cy="19" r="6.5" fill="#ff5f57"/>
   <circle cx="46" cy="19" r="6.5" fill="#febc2e"/>
   <circle cx="68" cy="19" r="6.5" fill="#28c840"/>
-  <text x="425" y="24" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, 'SF Mono', 'Fira Code', monospace" font-size="13">suat@macbook — zsh</text>
+  <text x="425" y="24" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, 'SF Mono', 'Fira Code', monospace" font-size="13">yuvraj@macbook — zsh</text>
 
   <!-- CMD 1: typewriter -->
   <g clip-path="url(#t1)">
@@ -48,7 +48,7 @@
 
   <!-- OUT 1: fadeIn -->
   <g class="o2">
-    <text x="24" y="98" fill="#e6edf3" font-family="ui-monospace, 'SF Mono', 'Fira Code', monospace" font-size="15">suat kocar · manchester, uk</text>
+    <text x="24" y="98" fill="#e6edf3" font-family="ui-monospace, 'SF Mono', 'Fira Code', monospace" font-size="15">yuvraj kumar · bihar, india</text>
   </g>
 
   <!-- CMD 2: typewriter -->
@@ -66,13 +66,11 @@
   <!-- OUT 2: fadeIn -->
   <g class="o4">
     <text x="24" y="158" fill="#e6edf3" font-family="ui-monospace, 'SF Mono', 'Fira Code', monospace" font-size="15">
-      <tspan fill="#8b949e">lawyer</tspan>
+      <tspan fill="#8b949e">ece engineer</tspan>
       <tspan fill="#484f58"> → </tspan>
-      <tspan fill="#8b949e">cs masters</tspan>
+      <tspan fill="#c9d1d9">learning cs</tspan>
       <tspan fill="#484f58"> → </tspan>
-      <tspan fill="#c9d1d9">software engineer</tspan>
-      <tspan fill="#484f58"> → </tspan>
-      <tspan fill="#e6edf3" font-weight="bold">cto</tspan>
+      <tspan fill="#e6edf3" font-weight="bold">software engineer</tspan>
     </text>
   </g>
 
@@ -94,19 +92,19 @@
   <!-- STACK output rows: fadeIn cascade -->
   <g class="s1">
     <text y="220" font-family="ui-monospace, 'SF Mono', 'Fira Code', monospace" font-size="15">
-      <tspan x="24" fill="#e6edf3">typescript</tspan>
-      <tspan x="170" fill="#e6edf3">rust</tspan>
+      <tspan x="24" fill="#e6edf3">python</tspan>
+      <tspan x="170" fill="#e6edf3">C++/tspan>
       <tspan x="290" fill="#e6edf3">swift</tspan>
       <tspan x="420" fill="#e6edf3">java</tspan>
-      <tspan x="550" fill="#e6edf3">c#</tspan>
+      <tspan x="550" fill="#e6edf3">java script</tspan>
     </text>
   </g>
 
   <g class="s2">
     <text y="244" font-family="ui-monospace, 'SF Mono', 'Fira Code', monospace" font-size="15">
-      <tspan x="24" fill="#e6edf3">sveltekit</tspan>
-      <tspan x="170" fill="#e6edf3">react</tspan>
-      <tspan x="290" fill="#e6edf3">next.js</tspan>
+      <tspan x="24" fill="#e6edf3">react</tspan>
+      <tspan x="170" fill="#e6edf3">next.js</tspan>
+      <tspan x="290" fill="#e6edf3">html css</tspan>
       <tspan x="420" fill="#e6edf3">swiftui</tspan>
       <tspan x="550" fill="#e6edf3">tailwind</tspan>
     </text>
@@ -146,21 +144,21 @@
 
   <!-- OUT 4: fadeIn -->
   <g class="o8">
-    <text x="24" y="354" fill="#e6edf3" font-family="ui-monospace, 'SF Mono', 'Fira Code', monospace" font-size="15">2019-02-24 · up 7 years · still shipping</text>
+    <text x="24" y="354" fill="#e6edf3" font-family="ui-monospace, 'SF Mono', 'Fira Code', monospace" font-size="15">2021-12-09 · up 4 years · still shipping</text>
   </g>
 
   <!-- CMD 5: typewriter -->
   <g clip-path="url(#t9)">
     <text y="390" font-family="ui-monospace, 'SF Mono', 'Fira Code', monospace" font-size="15">
       <tspan x="24" fill="#7ee787" font-weight="bold">$</tspan>
-      <tspan fill="#79c0ff"> fortune</tspan>
+      <tspan fill="#79c0ff"> Status</tspan>
       <tspan fill="#ffa657"> -s</tspan>
     </text>
   </g>
 
   <!-- OUT 5: fadeIn -->
   <g class="o10">
-    <text x="24" y="416" fill="#a5d6ff" font-family="ui-monospace, 'SF Mono', 'Fira Code', monospace" font-size="15">"i'd rather debug software than debug legal arguments"</text>
+    <text x="24" y="416" fill="#a5d6ff" font-family="ui-monospace, 'SF Mono', 'Fira Code', monospace" font-size="15">"A developer currently teaching small machines to do interesting things"</text>
   </g>
 
   <!-- Blinking cursor -->
