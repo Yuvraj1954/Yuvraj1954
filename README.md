@@ -21,18 +21,18 @@
 <div align="center">
 
 <!-- Profile Details -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvraj1954&theme=tokyonight" width="100%" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvraj1954&theme=tokyonight&animation=draw" width="100%" alt="Profile Details"/>
 
 <br><br>
 
 <!-- Streak -->
-<img src="https://streak-stats.demolab.com/?user=Yuvraj1954&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Yuvraj1954&theme=tokyonight&hide_border=true&animation=draw" width="100%" alt="GitHub Streak"/>
 
 <br><br>
 
 <!-- Stats + Productive Time -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvraj1954&theme=tokyonight" width="49%" alt="GitHub Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvraj1954&theme=tokyonight" width="49%" alt="Repositories per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvraj1954&theme=tokyonight&animation=draw" width="49%" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvraj1954&theme=tokyonight&animation=draw" width="49%" alt="Repositories per Language"/>
 
 </div>
 <br/>
