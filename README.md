@@ -62,10 +62,10 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvraj1954&theme=tokyonight&animation=draw" width="49%" alt="Repositories per Language"/>
 </div>
 <br/>
-
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Yuvraj1954&theme=tokyonight&hide_border=true&animation=draw" width="70%" alt="GitHub Streak"/>
+</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/output/github-snake.gif" alt="Animated snake travelling through Yuvraj's GitHub contribution history" width="100%" />
 </div>
-<div>
-<img src="https://streak-stats.demolab.com/?user=Yuvraj1954&theme=tokyonight&hide_border=true&animation=draw" width="70%" alt="GitHub Streak"/>
-</div>
+
