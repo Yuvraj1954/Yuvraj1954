@@ -41,15 +41,3 @@
   <br/><br/>
   <img src="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/output/github-snake.gif" alt="Animated snake travelling through Yuvraj's GitHub contribution history" width="100%" />
 </div>
-
-<br/>
-
-<h2 align="center">Programming Rule #1</h2>
-
-<table>
-  <tr>
-    <td width="33.33%" align="center"><img src="./assets/rule-1.svg" alt="Rule number one of programming: If it works, don't touch it." width="100%" /></td>
-    <td width="33.33%" align="center"><img src="./assets/developer-chaos.svg" alt="Developer chaos: a tiny change breaks everything before Ctrl+Z saves the day." width="100%" /></td>
-    <td width="33.33%" align="center"><img src="./assets/terminal-rule-1.svg" alt="Animated terminal: git status, a risky change, errors, and git checkout restoring everything." width="100%" /></td>
-  </tr>
-</table>
