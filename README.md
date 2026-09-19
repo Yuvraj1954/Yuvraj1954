@@ -15,11 +15,48 @@
 > Python, C/C++, Flutter, FastAPI, data, games, automation — and the slightly reckless idea that it might work.
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/main/assets/station-stats.svg"
-    width="100%"
-    alt="Station statistics"
-  />
+
+<table>
+<tr>
+<td align="center">
+
+<sub>◉ &nbsp; STATION VISITORS</sub><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Yuvraj1954&label=visitors&style=flat-square&color=5eead4"
+  alt="Station visitors"
+/>
+
+</td>
+
+<td width="30"></td>
+
+<td align="center">
+
+<sub>◇ &nbsp; CREW</sub><br/>
+
+<img
+  src="https://img.shields.io/github/followers/Yuvraj1954?label=crew&style=flat-square&color=5eead4&labelColor=0b1020"
+  alt="Crew"
+/>
+
+</td>
+
+<td width="30"></td>
+
+<td align="center">
+
+<sub>★ &nbsp; STARS COLLECTED</sub><br/>
+
+<img
+  src="https://img.shields.io/github/stars/Yuvraj1954?affiliations=OWNER&label=stars&style=flat-square&color=5eead4&labelColor=0b1020"
+  alt="Stars collected"
+/>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
