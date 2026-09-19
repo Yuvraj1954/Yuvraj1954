@@ -15,6 +15,7 @@
 > Python, C/C++, Flutter, FastAPI, data, games, automation — and the slightly reckless idea that it might work.
 
 <h1 style="display: inline;"> Tech Stack</h1>
+
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
