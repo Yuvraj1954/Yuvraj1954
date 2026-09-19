@@ -15,7 +15,7 @@
 > Python, C/C++, Flutter, FastAPI, data, games, automation — and the slightly reckless idea that it might work.
 
 <div align="center">
-    <img src="./assets/profile-stats.svg" alt="Profile statistics" />
+    <img src="./assets/profile-stats.svg" width="100%" alt="Profile statistics" />
 </div>
 
 <br/>
