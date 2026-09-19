@@ -32,10 +32,6 @@
 
 <!-- Stats + Productive Time -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvraj1954&theme=tokyonight" width="49%" alt="GitHub Stats"/>
-
-<br><br>
-
-<!-- Languages -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvraj1954&theme=tokyonight" width="49%" alt="Repositories per Language"/>
 
 </div>
