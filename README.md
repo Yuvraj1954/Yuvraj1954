@@ -40,8 +40,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvraj1954&theme=tokyonight" height="170" alt="Stats"/>
 </div>
 
-<br/>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Yuvraj1954&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
