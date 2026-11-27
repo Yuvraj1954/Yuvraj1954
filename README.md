@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/main/assets/terminal.svg?v=20261126" width="100%" alt="Yuvraj's Terminal" />
+  <img src="https://raw.githubusercontent.com/Yuvraj1954/Yuvraj1954/main/assets/terminal.svg?v=20261127" width="100%" alt="Yuvraj's Terminal" />
 </div>
 <h1 style="display: inline;"> Tech Stack</h1>
 
